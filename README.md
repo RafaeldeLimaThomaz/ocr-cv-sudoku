@@ -1,3 +1,3 @@
-# sudoku_solver
+# ocr-cv-sudoku-solver
 
-Hello, this is a sudoku solver
+Hello, this is a optical character recognition based sudoku solver.
