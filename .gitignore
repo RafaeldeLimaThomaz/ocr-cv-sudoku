@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+venv/
+.venv/
+.env.local
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
